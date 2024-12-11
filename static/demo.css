@@ -1,0 +1,19 @@
+
+body{
+    background-color: rgb(200, 200, 235); 
+}
+form
+{
+    flex: auto;
+    margin: auto;
+    text-align: center;
+    width: 60%;
+    border: 3px solid #110101;
+    padding: 10px;
+}
+h1
+{
+text-align: center;
+font-style:normal;
+font-size:340%;
+}
